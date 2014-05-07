@@ -1,0 +1,10 @@
+enemy	-	5	enemy.png	-
+player	-	2	mainChar.png	-
+bordertile	|	1	wall.png	-
+victory	-	8	door.png	-
+portalU	-	11	portalU.png	-
+portalD	-	11	portalD.png	-
+portalR	-	11	portalR.png	-
+portalL	-	11	portalL.png	-
+emptytile	.	0	null	-
+background	-	0	bg.png	-
